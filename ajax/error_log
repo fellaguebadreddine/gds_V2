@@ -1,0 +1,284 @@
+[18-Jun-2023 10:57:57 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Releve_comptes::trouve_releve_par_id_banque(), 1 passed in /home/softdz38/public_html/gds_V2/ajax/change_bank.php on line 15 and exactly 2 expected in /home/softdz38/public_html/gds_V2/includes/releve_comptes.php:43
+Stack trace:
+#0 /home/softdz38/public_html/gds_V2/ajax/change_bank.php(15): Releve_comptes::trouve_releve_par_id_banque('8')
+#1 {main}
+  thrown in /home/softdz38/public_html/gds_V2/includes/releve_comptes.php on line 43
+[18-Jun-2023 10:59:44 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Releve_comptes::trouve_releve_par_id_caiss(), 1 passed in /home/softdz38/public_html/gds_V2/ajax/change_bank.php on line 248 and exactly 2 expected in /home/softdz38/public_html/gds_V2/includes/releve_comptes.php:49
+Stack trace:
+#0 /home/softdz38/public_html/gds_V2/ajax/change_bank.php(248): Releve_comptes::trouve_releve_par_id_caiss('3')
+#1 {main}
+  thrown in /home/softdz38/public_html/gds_V2/includes/releve_comptes.php on line 49
+[18-Jun-2023 11:03:05 UTC] PHP Notice:  Trying to get property 'journal' of non-object in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 176
+[18-Jun-2023 11:03:05 UTC] PHP Notice:  Trying to get property 'comptes_achat' of non-object in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 189
+[18-Jun-2023 11:03:05 UTC] PHP Notice:  Trying to get property 'comptes_caisse' of non-object in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 195
+[18-Jun-2023 11:03:05 UTC] PHP Notice:  Trying to get property 'auxiliere_achat' of non-object in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 211
+[18-Jun-2023 11:03:05 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Releve_comptes::trouve_releve_par_id_banque(), 1 passed in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 340 and exactly 2 expected in /home/softdz38/public_html/gds_V2/includes/releve_comptes.php:43
+Stack trace:
+#0 /home/softdz38/public_html/gds_V2/ajax/save_releve.php(340): Releve_comptes::trouve_releve_par_id_banque('8')
+#1 {main}
+  thrown in /home/softdz38/public_html/gds_V2/includes/releve_comptes.php on line 43
+[18-Jun-2023 11:03:14 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Releve_comptes::trouve_releve_par_id_banque(), 1 passed in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 340 and exactly 2 expected in /home/softdz38/public_html/gds_V2/includes/releve_comptes.php:43
+Stack trace:
+#0 /home/softdz38/public_html/gds_V2/ajax/save_releve.php(340): Releve_comptes::trouve_releve_par_id_banque('8')
+#1 {main}
+  thrown in /home/softdz38/public_html/gds_V2/includes/releve_comptes.php on line 43
+[18-Jun-2023 11:03:27 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Releve_comptes::trouve_releve_par_id_banque(), 1 passed in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 340 and exactly 2 expected in /home/softdz38/public_html/gds_V2/includes/releve_comptes.php:43
+Stack trace:
+#0 /home/softdz38/public_html/gds_V2/ajax/save_releve.php(340): Releve_comptes::trouve_releve_par_id_banque('8')
+#1 {main}
+  thrown in /home/softdz38/public_html/gds_V2/includes/releve_comptes.php on line 43
+[18-Jun-2023 11:13:30 UTC] PHP Notice:  Trying to get property 'journal' of non-object in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 176
+[18-Jun-2023 11:13:30 UTC] PHP Notice:  Trying to get property 'comptes_achat' of non-object in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 189
+[18-Jun-2023 11:13:30 UTC] PHP Notice:  Trying to get property 'comptes_caisse' of non-object in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 195
+[18-Jun-2023 11:13:30 UTC] PHP Notice:  Trying to get property 'auxiliere_achat' of non-object in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 211
+[18-Jun-2023 11:15:36 UTC] PHP Notice:  Undefined variable: thisday in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 623
+[18-Jun-2023 11:15:36 UTC] PHP Notice:  Undefined variable: thisday in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 630
+[18-Jun-2023 11:15:36 UTC] PHP Notice:  Undefined variable: nature_operations in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 650
+[18-Jun-2023 11:15:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 650
+[18-Jun-2023 11:20:12 UTC] PHP Notice:  Trying to get property 'journal' of non-object in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 176
+[18-Jun-2023 11:20:12 UTC] PHP Notice:  Trying to get property 'comptes_achat' of non-object in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 189
+[18-Jun-2023 11:20:12 UTC] PHP Notice:  Trying to get property 'comptes_caisse' of non-object in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 195
+[18-Jun-2023 11:20:12 UTC] PHP Notice:  Trying to get property 'auxiliere_achat' of non-object in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 211
+[18-Jun-2023 11:47:35 UTC] PHP Notice:  Undefined property: Caisse::$comptes_achat in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 189
+[18-Jun-2023 11:47:35 UTC] PHP Notice:  Undefined variable: thisday in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 597
+[18-Jun-2023 11:47:35 UTC] PHP Notice:  Undefined variable: thisday in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 604
+[18-Jun-2023 11:47:35 UTC] PHP Notice:  Undefined variable: nature_operations in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 618
+[18-Jun-2023 11:47:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 618
+[18-Jun-2023 11:48:48 UTC] PHP Notice:  Trying to get property 'journal' of non-object in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 176
+[18-Jun-2023 11:48:48 UTC] PHP Notice:  Trying to get property 'comptes_achat' of non-object in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 189
+[18-Jun-2023 11:48:48 UTC] PHP Notice:  Trying to get property 'comptes_caisse' of non-object in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 195
+[18-Jun-2023 11:48:48 UTC] PHP Notice:  Trying to get property 'auxiliere_achat' of non-object in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 211
+[18-Jun-2023 11:53:58 UTC] PHP Notice:  Undefined property: Compte::$comptes_caisse in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 195
+[18-Jun-2023 11:57:24 UTC] PHP Notice:  Undefined variable: thisday in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 598
+[18-Jun-2023 11:57:24 UTC] PHP Notice:  Undefined variable: thisday in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 605
+[18-Jun-2023 11:57:24 UTC] PHP Notice:  Undefined variable: nature_operations in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 619
+[18-Jun-2023 11:57:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 619
+[18-Jun-2023 12:04:20 UTC] PHP Notice:  Undefined variable: Fournisseur in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 273
+[18-Jun-2023 12:04:20 UTC] PHP Notice:  Trying to get property 'nom' of non-object in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 273
+[18-Jun-2023 12:04:20 UTC] PHP Notice:  Undefined variable: Fournisseur in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 288
+[18-Jun-2023 12:04:20 UTC] PHP Notice:  Trying to get property 'Compte' of non-object in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 288
+[18-Jun-2023 12:04:20 UTC] PHP Notice:  Undefined variable: Fournisseur in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 292
+[18-Jun-2023 12:04:20 UTC] PHP Notice:  Trying to get property 'Compte' of non-object in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 292
+[18-Jun-2023 12:07:55 UTC] PHP Notice:  Undefined property: Caisse::$comptes_achat in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 312
+[18-Jun-2023 12:07:55 UTC] PHP Notice:  Undefined variable: thisday in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 600
+[18-Jun-2023 12:07:55 UTC] PHP Notice:  Undefined variable: thisday in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 607
+[18-Jun-2023 12:07:55 UTC] PHP Notice:  Undefined variable: nature_operations in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 621
+[18-Jun-2023 12:07:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 621
+[18-Jun-2023 12:12:17 UTC] PHP Notice:  Undefined variable: thisday in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 610
+[18-Jun-2023 12:12:17 UTC] PHP Notice:  Undefined variable: thisday in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 617
+[18-Jun-2023 12:12:17 UTC] PHP Notice:  Undefined variable: nature_operations in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 631
+[18-Jun-2023 12:12:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 631
+[18-Jun-2023 12:33:40 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 320
+[18-Jun-2023 12:35:54 UTC] PHP Notice:  Undefined variable: thisday in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 611
+[18-Jun-2023 12:35:54 UTC] PHP Notice:  Undefined variable: thisday in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 618
+[18-Jun-2023 12:35:54 UTC] PHP Notice:  Undefined variable: nature_operations in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 632
+[18-Jun-2023 12:35:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 632
+[18-Jun-2023 12:37:40 UTC] PHP Notice:  Undefined variable: thisday in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 611
+[18-Jun-2023 12:37:40 UTC] PHP Notice:  Undefined variable: thisday in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 618
+[18-Jun-2023 12:37:40 UTC] PHP Notice:  Undefined variable: nature_operations in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 632
+[18-Jun-2023 12:37:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 632
+[18-Jun-2023 17:55:42 UTC] PHP Notice:  Undefined variable: thisday in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 611
+[18-Jun-2023 17:55:42 UTC] PHP Notice:  Undefined variable: thisday in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 618
+[18-Jun-2023 17:55:42 UTC] PHP Notice:  Undefined variable: nature_operations in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 632
+[18-Jun-2023 17:55:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 632
+[18-Jun-2023 17:56:03 UTC] PHP Notice:  Undefined variable: thisday in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 611
+[18-Jun-2023 17:56:03 UTC] PHP Notice:  Undefined variable: thisday in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 618
+[18-Jun-2023 17:56:03 UTC] PHP Notice:  Undefined variable: nature_operations in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 632
+[18-Jun-2023 17:56:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 632
+[19-Jun-2023 13:14:07 UTC] PHP Notice:  Undefined variable: cpt in /home/softdz38/public_html/gds_V2/ajax/Versement_client.php on line 48
+[19-Jun-2023 13:16:09 UTC] PHP Notice:  Undefined variable: cpt in /home/softdz38/public_html/gds_V2/ajax/Versement_fournisseur.php on line 48
+[19-Jun-2023 13:16:27 UTC] PHP Notice:  Undefined variable: cpt in /home/softdz38/public_html/gds_V2/ajax/Versement_fournisseur.php on line 48
+[19-Jun-2023 13:16:51 UTC] PHP Notice:  Undefined variable: cpt in /home/softdz38/public_html/gds_V2/ajax/Versement_fournisseur.php on line 48
+[19-Jun-2023 22:37:41 UTC] PHP Recoverable fatal error:  Object of class Societe could not be converted to string in /home/softdz38/public_html/gds_V2/includes/compte.php on line 76
+[19-Jun-2023 22:41:00 UTC] PHP Recoverable fatal error:  Object of class Societe could not be converted to string in /home/softdz38/public_html/gds_V2/includes/compte.php on line 76
+[19-Jun-2023 22:42:57 UTC] PHP Notice:  Trying to get property 'id_banque' of non-object in /home/softdz38/public_html/gds_V2/ajax/change_bank.php on line 18
+[19-Jun-2023 23:00:09 UTC] PHP Notice:  Undefined property: Releve_comptes::$reference in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 366
+[19-Jun-2023 23:00:09 UTC] PHP Notice:  Undefined property: Releve_comptes::$id_person in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 403
+[19-Jun-2023 23:00:09 UTC] PHP Notice:  Undefined property: Releve_comptes::$credit in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 406
+[19-Jun-2023 23:00:09 UTC] PHP Notice:  Undefined variable: versement in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 424
+[19-Jun-2023 23:00:09 UTC] PHP Notice:  Trying to get property 'id_person' of non-object in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 424
+[19-Jun-2023 23:00:09 UTC] PHP Notice:  Undefined variable: versement in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 427
+[19-Jun-2023 23:00:09 UTC] PHP Notice:  Trying to get property 'credit' of non-object in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 427
+[20-Jun-2023 10:57:06 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Compte_comptable::trouve_par_code(), 1 passed in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php on line 66 and exactly 2 expected in /home/softdz38/public_html/gds_V2/includes/compte_comptable.php:98
+Stack trace:
+#0 /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php(66): Compte_comptable::trouve_par_code('627000')
+#1 {main}
+  thrown in /home/softdz38/public_html/gds_V2/includes/compte_comptable.php on line 98
+[21-Jun-2023 12:11:48 UTC] PHP Deprecated:  Non-static method Reglement_fournisseur::delete_Reglement_vide_par_admin() should not be called statically in /home/softdz38/public_html/gds_V2/ajax/deletepaiement.php on line 60
+[21-Jun-2023 12:11:48 UTC] PHP Notice:  Trying to get property 'mode_paiement' of non-object in /home/softdz38/public_html/gds_V2/ajax/calcule_timbre.php on line 92
+[21-Jun-2023 12:11:48 UTC] PHP Notice:  Trying to get property 'mode_paiement' of non-object in /home/softdz38/public_html/gds_V2/ajax/calcule_timbre.php on line 202
+[21-Jun-2023 12:11:48 UTC] PHP Notice:  Undefined variable: last_Mode_paiement in /home/softdz38/public_html/gds_V2/ajax/calcule_timbre.php on line 218
+[21-Jun-2023 12:11:48 UTC] PHP Notice:  Trying to get property 'mode_paiement' of non-object in /home/softdz38/public_html/gds_V2/ajax/calcule_timbre.php on line 218
+[21-Jun-2023 12:12:10 UTC] PHP Deprecated:  Non-static method Reglement_fournisseur::delete_Reglement_vide_par_admin() should not be called statically in /home/softdz38/public_html/gds_V2/ajax/deletepaiement.php on line 60
+[21-Jun-2023 12:12:10 UTC] PHP Notice:  Trying to get property 'mode_paiement' of non-object in /home/softdz38/public_html/gds_V2/ajax/calcule_timbre.php on line 92
+[21-Jun-2023 12:12:10 UTC] PHP Notice:  Trying to get property 'mode_paiement' of non-object in /home/softdz38/public_html/gds_V2/ajax/calcule_timbre.php on line 202
+[21-Jun-2023 12:12:10 UTC] PHP Notice:  Undefined variable: last_Mode_paiement in /home/softdz38/public_html/gds_V2/ajax/calcule_timbre.php on line 218
+[21-Jun-2023 12:12:10 UTC] PHP Notice:  Trying to get property 'mode_paiement' of non-object in /home/softdz38/public_html/gds_V2/ajax/calcule_timbre.php on line 218
+[21-Jun-2023 12:12:26 UTC] PHP Notice:  Undefined variable: last_Mode_paiement in /home/softdz38/public_html/gds_V2/ajax/calcule_timbre.php on line 218
+[21-Jun-2023 12:12:26 UTC] PHP Notice:  Trying to get property 'mode_paiement' of non-object in /home/softdz38/public_html/gds_V2/ajax/calcule_timbre.php on line 218
+[21-Jun-2023 12:12:29 UTC] PHP Notice:  Undefined variable: last_Mode_paiement in /home/softdz38/public_html/gds_V2/ajax/calcule_timbre.php on line 218
+[21-Jun-2023 12:12:29 UTC] PHP Notice:  Trying to get property 'mode_paiement' of non-object in /home/softdz38/public_html/gds_V2/ajax/calcule_timbre.php on line 218
+[21-Jun-2023 12:12:53 UTC] PHP Notice:  Undefined variable: last_Mode_paiement in /home/softdz38/public_html/gds_V2/ajax/calcule_timbre.php on line 218
+[21-Jun-2023 12:12:53 UTC] PHP Notice:  Trying to get property 'mode_paiement' of non-object in /home/softdz38/public_html/gds_V2/ajax/calcule_timbre.php on line 218
+[21-Jun-2023 12:12:53 UTC] PHP Notice:  Undefined variable: Solde in /home/softdz38/public_html/gds_V2/ajax/addmodepaiement.php on line 722
+[21-Jun-2023 12:20:11 UTC] PHP Notice:  Undefined variable: Lot_prod in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 63
+[21-Jun-2023 12:20:11 UTC] PHP Notice:  Trying to get property 'qte' of non-object in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 63
+[21-Jun-2023 12:20:11 UTC] PHP Notice:  Undefined variable: Lot_prod in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 66
+[21-Jun-2023 12:20:11 UTC] PHP Notice:  Trying to get property 'qte' of non-object in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 66
+[21-Jun-2023 12:20:11 UTC] PHP Notice:  Undefined variable: Produit in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:11 UTC] PHP Notice:  Trying to get property 'id_pro' of non-object in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:11 UTC] PHP Notice:  Undefined variable: Produit in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:11 UTC] PHP Notice:  Trying to get property 'id_pro' of non-object in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:11 UTC] PHP Notice:  Undefined variable: Produit in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:11 UTC] PHP Notice:  Trying to get property 'id_pro' of non-object in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:11 UTC] PHP Notice:  Undefined variable: Produit in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:11 UTC] PHP Notice:  Trying to get property 'id_pro' of non-object in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:11 UTC] PHP Notice:  Undefined variable: Produit in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:11 UTC] PHP Notice:  Trying to get property 'id_pro' of non-object in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:11 UTC] PHP Notice:  Undefined variable: Produit in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:11 UTC] PHP Notice:  Trying to get property 'id_pro' of non-object in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:21 UTC] PHP Notice:  Undefined variable: Lot_prod in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 63
+[21-Jun-2023 12:20:21 UTC] PHP Notice:  Trying to get property 'qte' of non-object in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 63
+[21-Jun-2023 12:20:21 UTC] PHP Notice:  Undefined variable: Lot_prod in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 66
+[21-Jun-2023 12:20:21 UTC] PHP Notice:  Trying to get property 'qte' of non-object in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 66
+[21-Jun-2023 12:20:21 UTC] PHP Notice:  Undefined variable: Produit in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:21 UTC] PHP Notice:  Trying to get property 'id_pro' of non-object in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:21 UTC] PHP Notice:  Undefined variable: Produit in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:21 UTC] PHP Notice:  Trying to get property 'id_pro' of non-object in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:21 UTC] PHP Notice:  Undefined variable: Produit in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:21 UTC] PHP Notice:  Trying to get property 'id_pro' of non-object in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:21 UTC] PHP Notice:  Undefined variable: Produit in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:21 UTC] PHP Notice:  Trying to get property 'id_pro' of non-object in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:21 UTC] PHP Notice:  Undefined variable: Produit in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:21 UTC] PHP Notice:  Trying to get property 'id_pro' of non-object in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:21 UTC] PHP Notice:  Undefined variable: Produit in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:21 UTC] PHP Notice:  Trying to get property 'id_pro' of non-object in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:43 UTC] PHP Notice:  Undefined variable: Lot_prod in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 63
+[21-Jun-2023 12:20:43 UTC] PHP Notice:  Trying to get property 'qte' of non-object in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 63
+[21-Jun-2023 12:20:43 UTC] PHP Notice:  Undefined variable: Produit in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:43 UTC] PHP Notice:  Trying to get property 'id_pro' of non-object in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:43 UTC] PHP Notice:  Undefined variable: Produit in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:43 UTC] PHP Notice:  Trying to get property 'id_pro' of non-object in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:43 UTC] PHP Notice:  Undefined variable: Produit in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:43 UTC] PHP Notice:  Trying to get property 'id_pro' of non-object in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:43 UTC] PHP Notice:  Undefined variable: Produit in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:43 UTC] PHP Notice:  Trying to get property 'id_pro' of non-object in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:43 UTC] PHP Notice:  Undefined variable: Produit in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:43 UTC] PHP Notice:  Trying to get property 'id_pro' of non-object in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:43 UTC] PHP Notice:  Undefined variable: Produit in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[21-Jun-2023 12:20:43 UTC] PHP Notice:  Trying to get property 'id_pro' of non-object in /home/softdz38/public_html/gds_V2/ajax/addavoirachat.php on line 271
+[23-Jun-2023 21:06:08 UTC] PHP Notice:  Undefined index: id_banque in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php on line 6
+[23-Jun-2023 21:06:56 UTC] PHP Notice:  Undefined index: id_banque in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php on line 6
+[23-Jun-2023 21:08:15 UTC] PHP Notice:  Trying to get property 'journal' of non-object in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 394
+[23-Jun-2023 21:08:15 UTC] PHP Notice:  Trying to get property 'comptes_achat' of non-object in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 430
+[23-Jun-2023 21:08:15 UTC] PHP Notice:  Trying to get property 'auxiliere_achat' of non-object in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 447
+[25-Jun-2023 16:44:36 UTC] PHP Warning:  Use of undefined constant id_banque - assumed 'id_banque' (this will throw an Error in a future version of PHP) in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 520
+[26-Jun-2023 06:39:24 UTC] PHP Warning:  Use of undefined constant id_banque - assumed 'id_banque' (this will throw an Error in a future version of PHP) in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 520
+[26-Jun-2023 06:40:25 UTC] PHP Warning:  Use of undefined constant id_banque - assumed 'id_banque' (this will throw an Error in a future version of PHP) in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 520
+[26-Jun-2023 10:35:52 UTC] PHP Notice:  Undefined property: Compte::$comptes_caisse in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 473
+[26-Jun-2023 22:13:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/softdz38/public_html/gds_V2/includes/bd.php on line 86
+[26-Jun-2023 22:13:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/softdz38/public_html/gds_V2/includes/bd.php on line 86
+[26-Jun-2023 22:13:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/softdz38/public_html/gds_V2/includes/bd.php on line 86
+[26-Jun-2023 22:18:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/softdz38/public_html/gds_V2/includes/bd.php on line 86
+[26-Jun-2023 22:18:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/softdz38/public_html/gds_V2/includes/bd.php on line 86
+[26-Jun-2023 22:18:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/softdz38/public_html/gds_V2/includes/bd.php on line 86
+[26-Jun-2023 22:18:06 UTC] PHP Notice:  Undefined variable: last_client in /home/softdz38/public_html/gds_V2/ajax/deletevente.php on line 80
+[26-Jun-2023 22:18:06 UTC] PHP Notice:  Trying to get property 'Ttva' of non-object in /home/softdz38/public_html/gds_V2/ajax/deletevente.php on line 80
+[26-Jun-2023 22:18:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/softdz38/public_html/gds_V2/includes/bd.php on line 86
+[27-Jun-2023 07:54:53 UTC] PHP Notice:  Undefined property: Compte::$comptes_caisse in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 473
+[27-Jun-2023 07:56:04 UTC] PHP Notice:  Undefined property: Compte::$comptes_caisse in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 473
+[27-Jun-2023 09:15:39 UTC] PHP Notice:  Undefined property: Compte::$comptes_caisse in /home/softdz38/public_html/gds_V2/ajax/save_releve.php on line 482
+[27-Jun-2023 09:33:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Compte::trouve_compte_banque_defrent_id_banque() in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php on line 55
+[27-Jun-2023 09:33:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Compte::trouve_compte_banque_defrent_id_banque() in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php on line 55
+[27-Jun-2023 09:33:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Compte::trouve_compte_banque_defrent_id_banque() in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php on line 55
+[27-Jun-2023 09:33:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Compte::trouve_compte_banque_defrent_id_banque() in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php on line 55
+[27-Jun-2023 09:34:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Compte::trouve_compte_banque_defrent_id_banque() in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php on line 55
+[27-Jun-2023 09:34:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Compte::trouve_compte_banque_defrent_id_banque() in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php on line 55
+[27-Jun-2023 09:34:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Compte::trouve_compte_banque_defrent_id_banque() in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php on line 55
+[27-Jun-2023 09:34:44 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Compte_comptable::trouve_par_code(), 1 passed in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php on line 84 and exactly 2 expected in /home/softdz38/public_html/gds_V2/includes/compte_comptable.php:98
+Stack trace:
+#0 /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php(84): Compte_comptable::trouve_par_code('661000')
+#1 {main}
+  thrown in /home/softdz38/public_html/gds_V2/includes/compte_comptable.php on line 98
+[27-Jun-2023 09:34:49 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Compte_comptable::trouve_par_code(), 1 passed in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php on line 155 and exactly 2 expected in /home/softdz38/public_html/gds_V2/includes/compte_comptable.php:98
+Stack trace:
+#0 /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php(155): Compte_comptable::trouve_par_code('404000')
+#1 {main}
+  thrown in /home/softdz38/public_html/gds_V2/includes/compte_comptable.php on line 98
+[27-Jun-2023 09:34:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Compte::trouve_compte_banque_defrent_id_banque() in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php on line 55
+[27-Jun-2023 09:35:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Compte::trouve_compte_banque_defrent_id_banque() in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php on line 55
+[27-Jun-2023 09:35:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Compte::trouve_compte_banque_defrent_id_banque() in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php on line 55
+[27-Jun-2023 09:36:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Compte::trouve_compte_banque_defrent_id_banque() in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php on line 55
+[27-Jun-2023 09:36:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Compte::trouve_compte_banque_defrent_id_banque() in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php on line 55
+[01-Jul-2023 10:15:49 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Compte_comptable::trouve_par_code(), 1 passed in /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php on line 155 and exactly 2 expected in /home/softdz38/public_html/gds_V2/includes/compte_comptable.php:98
+Stack trace:
+#0 /home/softdz38/public_html/gds_V2/ajax/tiers_comptes.php(155): Compte_comptable::trouve_par_code('404000')
+#1 {main}
+  thrown in /home/softdz38/public_html/gds_V2/includes/compte_comptable.php on line 98
+[01-Jul-2023 18:03:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/softdz38/public_html/gds_V2/includes/bd.php on line 86
+[01-Jul-2023 18:03:57 UTC] PHP Notice:  Undefined variable: last_client in /home/softdz38/public_html/gds_V2/ajax/deletevente.php on line 80
+[01-Jul-2023 18:03:57 UTC] PHP Notice:  Trying to get property 'Ttva' of non-object in /home/softdz38/public_html/gds_V2/ajax/deletevente.php on line 80
+[01-Jul-2023 18:08:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/softdz38/public_html/gds_V2/includes/bd.php on line 86
+[01-Jul-2023 18:08:28 UTC] PHP Notice:  Undefined variable: last_client in /home/softdz38/public_html/gds_V2/ajax/deletevente.php on line 80
+[01-Jul-2023 18:08:28 UTC] PHP Notice:  Trying to get property 'Ttva' of non-object in /home/softdz38/public_html/gds_V2/ajax/deletevente.php on line 80
+[01-Jul-2023 18:09:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/softdz38/public_html/gds_V2/includes/bd.php on line 86
+[01-Jul-2023 18:09:19 UTC] PHP Notice:  Undefined variable: last_client in /home/softdz38/public_html/gds_V2/ajax/deletevente.php on line 80
+[01-Jul-2023 18:09:19 UTC] PHP Notice:  Trying to get property 'Ttva' of non-object in /home/softdz38/public_html/gds_V2/ajax/deletevente.php on line 80
+[01-Jul-2023 19:04:28 UTC] PHP Notice:  Undefined index: Annexe_Fiscale in /home/softdz38/public_html/gds_V2/ajax/addecriture.php on line 67
+[01-Jul-2023 19:04:41 UTC] PHP Notice:  Undefined index: Annexe_Fiscale in /home/softdz38/public_html/gds_V2/ajax/update_ecriture.php on line 16
+[01-Jul-2023 19:04:41 UTC] PHP Notice:  Undefined index: Date_ecriture in /home/softdz38/public_html/gds_V2/ajax/update_ecriture.php on line 17
+[04-Jul-2023 08:16:52 UTC] PHP Notice:  Undefined variable: last_client in /home/softdz38/public_html/gds_V2/ajax/deletevente.php on line 80
+[04-Jul-2023 08:16:52 UTC] PHP Notice:  Trying to get property 'Ttva' of non-object in /home/softdz38/public_html/gds_V2/ajax/deletevente.php on line 80
+[05-Jul-2023 23:27:31 UTC] PHP Notice:  Undefined variable: last_Mode_paiement in /home/softdz38/public_html/gds_V2/ajax/calcule_timbre.php on line 218
+[05-Jul-2023 23:27:31 UTC] PHP Notice:  Trying to get property 'mode_paiement' of non-object in /home/softdz38/public_html/gds_V2/ajax/calcule_timbre.php on line 218
+[05-Jul-2023 23:27:36 UTC] PHP Notice:  Undefined variable: last_Mode_paiement in /home/softdz38/public_html/gds_V2/ajax/calcule_timbre.php on line 218
+[05-Jul-2023 23:27:36 UTC] PHP Notice:  Trying to get property 'mode_paiement' of non-object in /home/softdz38/public_html/gds_V2/ajax/calcule_timbre.php on line 218
+[06-Jul-2023 00:14:03 UTC] PHP Notice:  Undefined variable: last_Mode_paiement in /home/softdz38/public_html/gds_V2/ajax/calcule_timbre.php on line 218
+[06-Jul-2023 00:14:03 UTC] PHP Notice:  Trying to get property 'mode_paiement' of non-object in /home/softdz38/public_html/gds_V2/ajax/calcule_timbre.php on line 218
+[06-Jul-2023 00:26:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/softdz38/public_html/gds_V2/includes/bd.php on line 86
+[06-Jul-2023 00:27:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/softdz38/public_html/gds_V2/includes/bd.php on line 86
+[06-Jul-2023 00:27:25 UTC] PHP Notice:  Undefined variable: last_Mode_paiement in /home/softdz38/public_html/gds_V2/ajax/calcule_timbre.php on line 218
+[06-Jul-2023 00:27:25 UTC] PHP Notice:  Trying to get property 'mode_paiement' of non-object in /home/softdz38/public_html/gds_V2/ajax/calcule_timbre.php on line 218
+[06-Jul-2023 00:27:29 UTC] PHP Notice:  Undefined variable: last_Mode_paiement in /home/softdz38/public_html/gds_V2/ajax/calcule_timbre.php on line 218
+[06-Jul-2023 00:27:29 UTC] PHP Notice:  Trying to get property 'mode_paiement' of non-object in /home/softdz38/public_html/gds_V2/ajax/calcule_timbre.php on line 218
+[06-Jul-2023 00:31:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/softdz38/public_html/gds_V2/includes/bd.php on line 86
+[06-Jul-2023 00:31:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/softdz38/public_html/gds_V2/includes/bd.php on line 86
+[06-Jul-2023 00:31:48 UTC] PHP Notice:  Undefined variable: last_Mode_paiement in /home/softdz38/public_html/gds_V2/ajax/calcule_timbre.php on line 218
+[06-Jul-2023 00:31:48 UTC] PHP Notice:  Trying to get property 'mode_paiement' of non-object in /home/softdz38/public_html/gds_V2/ajax/calcule_timbre.php on line 218
+[06-Jul-2023 15:30:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/softdz38/public_html/gds_V2/includes/bd.php on line 86

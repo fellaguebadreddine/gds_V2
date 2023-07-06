@@ -1,0 +1,146 @@
+@charset "UTF-8";
+
+
+.figure-wrap {
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 0 8px -2px #000
+}
+
+@media screen and (max-width:1023px) {
+    .figure-wrap {
+        margin-bottom: 32px
+    }
+}
+
+.figure-wrap.figure-seaal {
+    margin-top: 20px;
+    width: 9.45cm;
+    height: 13.365cm
+}
+
+@media screen and (max-width:1023px) {
+    .figure-wrap.figure-seaal {
+        width: 8.4cm;
+        height: 11.88cm
+    }
+}
+
+.figure-wrap.figure-seaal.client-id img {
+    transform: scale(3);
+    transform-origin: 5% 30%
+}
+
+.figure-wrap.figure-seaal.bill-id img {
+    transform: scale(3);
+    transform-origin: 75% 20%
+}
+
+.figure-wrap.figure-seaal.amount img {
+    transform: scale(3);
+    transform-origin: 65% 50%
+}
+
+.figure-wrap.figure-aadl {
+    margin-top: 200px;
+    width: 9.45cm;
+    height: 7.2cm
+}
+
+@media screen and (max-width:1023px) {
+    .figure-wrap.figure-aadl {
+        margin-top: 0;
+        width: 8.4cm;
+        height: 6.4cm
+    }
+}
+
+.figure-wrap.figure-opgi {
+    margin-top: 200px;
+    width: 14.45cm;
+    height: 4.8cm;
+}
+
+.figure-wrap.figure-opgi-birmr {
+    margin-top: 200px;
+    width: 14.45cm;
+    height: 10.2cm;
+}
+
+@media screen and (max-width:1023px) {
+    .figure-wrap.figure-opgi {
+        margin-top: 0;
+        width: 8.4cm;
+        height: 2.8cm
+    }
+}
+
+.figure-wrap.figure-sonelgaz {
+    margin-top: 20px;
+    width: 9.45cm;
+    height: 13.365cm
+}
+
+@media screen and (max-width:1023px) {
+    .figure-wrap.figure-sonelgaz {
+        width: 8.4cm;
+        height: 11.88cm
+    }
+}
+
+.figure-wrap.figure-sonelgaz.bill-id img {
+    transform: scale(3);
+    transform-origin: 70% 0
+}
+
+.figure-wrap.figure-sonelgaz.reference img {
+    transform: scale(3);
+    transform-origin: 2% 10%
+}
+
+.figure-wrap.figure-sonelgaz.ebp-key img {
+    transform: scale(3);
+    transform-origin: 90% 90%
+}
+
+.figure-wrap.figure-sonelgaz.amount img {
+    transform: scale(3);
+    transform-origin: 110% 100%
+}
+
+.figure-wrap.figure-ade {
+    margin-top: 200px;
+    width: 9.45cm;
+    height: 4.725cm
+}
+
+@media screen and (max-width:1023px) {
+    .figure-wrap.figure-ade {
+        margin-top: 0;
+        width: 8.4cm;
+        height: 4.2cm
+    }
+}
+
+.figure-wrap.figure-ade.client-id img {
+    transform: scale(3);
+    transform-origin: 75% 90%
+}
+
+.figure-wrap.figure-ade.bill-id img {
+    transform: scale(3);
+    transform-origin: 65% 0
+}
+
+.figure-wrap.figure-ade.amount img {
+    transform: scale(3);
+    transform-origin: 5% 90%
+}
+
+.figure-wrap img {
+    display: block;
+    max-width: 100%;
+    transition: .4s all ease-in-out;
+    transform: scale(1);
+    transform-origin: 0 0
+}
